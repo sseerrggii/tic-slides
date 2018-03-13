@@ -32,8 +32,8 @@ Com el financer, com l'energètic, etc
 - Alphabet (Google Search, Youtube, Maps, Android, Drive, Cloud)
 - Apple
 - Facebook (Whatsapp, Instagram)
-- Amazon (retailer, AWS)
-- Microsoft (Windows, Office, Azure)
+- Amazon (_retailer_, AWS)
+- Microsoft (Windows, Office, Azure, Skype)
 
 Note:
 Els Montsanto i Nestlé del món digital.
@@ -108,10 +108,14 @@ Stores: retirada d'alternatives
 
 ## Alguns casos (2)
 
+- [Tancament de perfils polítics](https://www.eldiario.es/sociedad/organizacion-feminista-Femen-denuncia-Facebook_0_146986033.html)
 - [Seguiment de càmera per pols en l'objectiu](https://gizmodo.com/facebook-knows-how-to-track-you-using-the-dust-on-your-1821030620)
 - [OSINT (Open Source Intelligence)](https://en.wikipedia.org/wiki/Open-source_intelligence)
 - [Filtració de dades personals: núm de telèfon](https://es.gizmodo.com/por-que-deberias-borrar-tu-numero-de-telefono-de-facebo-1820327397)
 - [Historial de trucades a la xarxa social](https://twitter.com/d3d0c3d/status/897110250758819848)
+
+Note:
+Censura: un clàssic
 
 ---
 
