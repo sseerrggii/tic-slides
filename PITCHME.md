@@ -1,4 +1,4 @@
-# Reflexions sobre el capitalisme digital
+# Capitalisme digital
 
 ### Comi TIC
 
@@ -16,26 +16,55 @@ Capitalisme digital, tecnocapitalisme, societat poslaboral, PostCapitalisme
 
 - Neoliberal i governat pel mercat
 - Transnacional i globalitzat
+- Monopolístic
 - Accentuador de les desigualtats socials
 - Extractiu
 - No contributiu
-- Potenciador del consumisme entre grups privilegiats
-- L'educació en mans de lògiques de mercat propietari
+- Adreçat al consumisme entre grups privilegiats
+- Colonitzador de l'educació
 
+Note:
+Com el financer, com l'energètic, etc
 ---
 
 ## GAFAM contra els pagesos digitals
 
-- Alphabet (Google, Youtube, Maps)
+- Alphabet (Google Search, Youtube, Maps, Android, Drive, Cloud)
 - Apple
-- Facebook
-- Amazon
-- Microsoft
+- Facebook (Whatsapp, Instagram)
+- Amazon (retailer, AWS)
+- Microsoft (Windows, Office, Azure)
 
 Note:
 Els Montsanto i Nestlé del món digital.
 Analogia: dividir territori en 5 conreus. GAFAM tenen les llavors i els mitjans.
-Pagesos digitals no tenen territori, han de llogar espai (Amz), llavors (G) i eines (Ap,M,G,F).
+Pagesos digitals no tenen territori, han de llogar espai (Amz), llavors (G) i eines (Ap,M,G,F). Volen banc de llavors, net de pesticides, etc. Impossible en aquest terreny.
+Distribuïdors són també GAFAM.
+
+---
+
+## El capitalisme es reinventa
+
+- Hotels -> Airbnb
+- Taxis, lloguer de cotxes -> Uber
+- Hipermercats -> AliExpress
+- Cadenes de TV -> Netflix
+- Assistents personals -> Amazon Alexa/Echo, Google Home
+
+Note:
+Impacte directe en economia local.
+En comú, evasió d'impostos, model de caixa negra.
+Alguns també obren codi de manera interessada.
+Assistents -> IoT privatiu
+
+---
+
+## La tecnologia no és neutra
+
+- Submissió de la usuària
+- Model de caixa negra (privatiu)
+- Despossessió del producte/servei
+- Obsolescència programada
 
 ---
 
@@ -43,6 +72,20 @@ Pagesos digitals no tenen territori, han de llogar espai (Amz), llavors (G) i ei
 
 - La privacitat és minada per beneficis
 - Els serveis alternatius són escombrats
+
+---
+
+## Praxis
+
+- Enginyeria fiscal/laboral
+- Priorització de búsquedes, relevància de continguts.
+- Venda de dades a tercers.
+- Entrega de dades a Governs.
+- Retirada d'alternatives dels _stores_
+-
+
+Note:
+Laboral: Deliveroo/Globo no té empleats, Airbnb no té hotels, Uber no té conductors -> Falsa economia col.laborativa
 
 ---
 
