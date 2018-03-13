@@ -8,7 +8,7 @@
 
 Capitalisme digital, tecnocapitalisme, societat poslaboral, PostCapitalisme
 
-[PostCapitalism: A Guide to our Future @fa[external-link gp-download]](https://en.wikipedia.org/wiki/PostCapitalism:_A_Guide_to_our_Future)
+[Paul Mason - PostCapitalism: A Guide to our Future @fa[external-link gp-download]](https://en.wikipedia.org/wiki/PostCapitalism:_A_Guide_to_our_Future)
 
 ---
 
@@ -21,7 +21,7 @@ Capitalisme digital, tecnocapitalisme, societat poslaboral, PostCapitalisme
 - Extractiu
 - No contributiu
 - Adreçat al consumisme entre grups privilegiats
-- Colonitzador de l'educació
+- Colonitzador de l'educació en valors de mercat
 
 Note:
 Com el financer, com l'energètic, etc
@@ -37,7 +37,7 @@ Com el financer, com l'energètic, etc
 
 Note:
 Els Montsanto i Nestlé del món digital.
-Analogia: dividir territori en 5 conreus. GAFAM tenen les llavors i els mitjans.
+Analogia: dividir territori en 5 conreus. GAFAM tenen les llavors i els mitjans. Zero respecte ecològic.
 Pagesos digitals no tenen territori, han de llogar espai (Amz), llavors (G) i eines (Ap,M,G,F). Volen banc de llavors, net de pesticides, etc. Impossible en aquest terreny.
 Distribuïdors són també GAFAM.
 
@@ -82,10 +82,20 @@ Assistents -> IoT privatiu
 - Venda de dades a tercers.
 - Entrega de dades a Governs.
 - Retirada d'alternatives dels _stores_
--
 
 Note:
 Laboral: Deliveroo/Globo no té empleats, Airbnb no té hotels, Uber no té conductors -> Falsa economia col.laborativa
+
+---
+
+## Una altra economia digital: Els Procomuns
+
+- Models econòmics
+- De governança
+- Ecològics
+- Tecnològics
+- De política de coneixement
+- De responsabilitat social
 
 ---
 
