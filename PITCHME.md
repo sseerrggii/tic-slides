@@ -84,13 +84,15 @@ Obsolescència: Actualitzacions Android, requeriments hw
 ## Praxis
 
 - Enginyeria fiscal/laboral
-- Priorització de búsquedes, relevància de continguts.
-- Venda de dades a tercers.
-- Entrega de dades a Governs.
-- Retirada d'alternatives dels _stores_
+- Priorització de continguts en base a algoritmes privatius
+- Venda de dades a tercers
+- Entrega de dades a Governs
+- Control centralitzat dels _stores_ i _marketplaces_
 
 Note:
 Laboral: Deliveroo/Globo no té empleats, Airbnb no té hotels, Uber no té conductors -> Falsa economia col.laborativa
+Priorització: continguts propis i de partners
+Stores: retirada d'alternatives
 
 ---
 
@@ -137,7 +139,7 @@ Models
 - De política de coneixement
 - De responsabilitat social
 
-Notes:
+Note:
 Transparència, democràcia, intercooperació
 Remeten a criteris de Pamapam
 ---
