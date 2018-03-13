@@ -45,10 +45,12 @@ Distribuïdors són també GAFAM.
 
 ## El capitalisme es reinventa
 
+- Bars, tertúlies -> Twitter
 - Hotels -> Airbnb
 - Taxis, lloguer de cotxes -> Uber
 - Hipermercats -> AliExpress
 - Cadenes de TV -> Netflix
+- Prestatgeries -> Dropbox
 - Assistents personals -> Amazon Alexa/Echo, Google Home
 
 Note:
@@ -65,6 +67,10 @@ Assistents -> IoT privatiu
 - Model de caixa negra (privatiu)
 - Despossessió del producte/servei
 - Obsolescència programada
+
+Note:
+Despossessió: DRM continguts digitals, clouds.
+Obsolescència: Actualitzacions Android, requeriments hw
 
 ---
 
@@ -88,15 +94,52 @@ Laboral: Deliveroo/Globo no té empleats, Airbnb no té hotels, Uber no té cond
 
 ---
 
-## Una altra economia digital: Els Procomuns
+## Alguns casos (1)
 
-- Models econòmics
+- [Advertising en funció del perfil social](https://en.wikipedia.org/wiki/Social_network_advertising)
+- [360 graus del consum personal](https://www.geekwire.com/2018/check-no-checkout-amazon-go-automated-retail-store-will-finally-open-public-monday/)
+- [Laboratoris urbans](https://amp.theguardian.com/commentisfree/2017/oct/24/google-alphabet-sidewalk-labs-toronto)
+- [IA per drones militars (Google)](https://static.theintercept.com/amp/google-is-quietly-providing-ai-technology-for-drone-strike-targeting-project.html)
+- [Recopilació d'ubicació en Android](https://static.theintercept.com/amp/google-is-quietly-providing-ai-technology-for-drone-strike-targeting-project.html)
+
+---
+
+## Alguns casos (2)
+
+- [Seguiment de càmera per pols en l'objectiu](https://gizmodo.com/facebook-knows-how-to-track-you-using-the-dust-on-your-1821030620)
+- [OSINT (Open Source Intelligence)](https://en.wikipedia.org/wiki/Open-source_intelligence)
+- [Filtració de dades personals: núm de telèfon](https://es.gizmodo.com/por-que-deberias-borrar-tu-numero-de-telefono-de-facebo-1820327397)
+- [Historial de trucades a la xarxa social](https://twitter.com/d3d0c3d/status/897110250758819848)
+
+---
+
+## L'economia dels pagesos digitals
+
+- Respectuosa amb el medi ambient
+- Transparent en materials i procesos
+- Local, _Km 0_
+- Sostenible
+- Respectuosa amb la comunitat
+
+Note:
+Lliure de pesticides
+Lliures d'alergens
+Respectuosa amb la privacitat de la xarxa de contactes
+
+---
+
+## Els Procomuns
+
+Models
+- Econòmics
 - De governança
-- Ecològics
 - Tecnològics
 - De política de coneixement
 - De responsabilitat social
 
+Notes:
+Transparència, democràcia, intercooperació
+Remeten a criteris de Pamapam
 ---
 
 ## Preguntes?
@@ -118,6 +161,23 @@ Riot/Matrix: ```#comissio_tic_pap:matrix.org```
 
 ### Comi TIC
 
+
+---
+
+## Criteri 7
+
+_Avaluació del grau de sensibilització de la iniciativa amb els procomuns digitals i la seva contribució activa als mateixos_
+
+---
+
+## Criteri 7
+
+1. Utilitzen continguts amb llicències lliures.
+2. És política interna de la iniciativa prioritzar l’ús de continguts amb llicències lliures en el desenvolupament de l’activitat.
+3. Publiquen algun contingut sota llicència lliure.
+4. És política interna de la iniciativa publicar la major part del contingut que es produeix sota llicències lliures
+i compartir-ho amb la comunitat.
+5. Fan tasques de sensibilització i difusió sobre l’ús i creació de continguts sota llicències lliures.
 
 ---
 
