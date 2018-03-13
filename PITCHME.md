@@ -1,3 +1,66 @@
+# Reflexions sobre el capitalisme digital
+
+### Comi TIC
+
+---
+
+## Capitalisme digital
+
+Capitalisme digital, tecnocapitalisme, societat poslaboral, PostCapitalisme
+
+[PostCapitalism: A Guide to our Future @fa[external-link gp-download]](https://en.wikipedia.org/wiki/PostCapitalism:_A_Guide_to_our_Future)
+
+---
+
+## Un capitalisme més
+
+- Neoliberal i governat pel mercat
+- Transnacional i globalitzat
+- Accentuador de les desigualtats socials
+- Extractiu
+- No contributiu
+- Potenciador del consumisme entre grups privilegiats
+- L'educació en mans de lògiques de mercat propietari
+
+---
+
+## GAFAM contra els pagesos digitals
+
+- Alphabet (Google, Youtube, Maps)
+- Apple
+- Facebook
+- Amazon
+- Microsoft
+
+Note:
+Els Montsanto i Nestlé del món digital.
+Analogia: dividir territori en 5 conreus. GAFAM tenen les llavors i els mitjans.
+Pagesos digitals no tenen territori, han de llogar espai (Amz), llavors (G) i eines (Ap,M,G,F).
+
+---
+
+## La tecnologia no és neutra
+
+- La privacitat és minada per beneficis
+- Els serveis alternatius són escombrats
+
+---
+
+## Preguntes?
+---
+
+
+## Gràcies!
+<br>
+
+
+<br>
+
+Llista: ```comissio_tic_pap@framalistes.org```
+<br>
+Riot/Matrix: ```#comissio_tic_pap:matrix.org```
+---
+
 # Llicències Pamapam
 
 ### Comi TIC
