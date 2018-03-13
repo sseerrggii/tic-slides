@@ -189,9 +189,10 @@ i compartir-ho amb la comunitat.
 
 ## Avaluació Criteri 7
 
-- Quin sistema operatiu tenen els ordinadors locals?
-- On està desplegada la web i amb quin servidor està constuïda?
-- Quines eines d'ofimàtica es fan servir?
+- Quin sistema operatiu tenen els ordinadors locals? Quines eines d'ofimàtica es fan servir?
+- On està desplegada la web i amb quin servidor està constuïda? Quina base de dades?
+- Amb quines eines es gestionen financerament?
+- En quins formats distribueixen els seus documents i presentacions?
 - Quines altres eines es fan servir (disseny gràfic, comunicació, marketing)?
 - On es guarden els documents digitals de la iniciativa?
 - En desenvolupaments a mida, han alliberat codi/continguts o demanat al proveïdor que ho faci?
