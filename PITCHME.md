@@ -187,15 +187,21 @@ i compartir-ho amb la comunitat.
 
 ---
 
-## Avaluació Criteri 7
+## Avaluació Criteri 7 (1)
 
 - Quin sistema operatiu tenen els ordinadors locals? Quines eines d'ofimàtica es fan servir?
 - On està desplegada la web i amb quin servidor està constuïda? Quina base de dades?
-- Amb quines eines es gestionen financerament?
+- Amb quines eines gestionen les seves finances?
+- On es guarden els documents digitals de la iniciativa?
+
+---
+
+## Avaluació Criteri 7 (2)
+
 - En quins formats distribueixen els seus documents i presentacions?
 - Quines altres eines es fan servir (disseny gràfic, comunicació, marketing)?
-- On es guarden els documents digitals de la iniciativa?
 - En desenvolupaments a mida, han alliberat codi/continguts o demanat al proveïdor que ho faci?
+- Linken el seu codi apropiadament, indiquen llicències i acrediten continguts/codi de tercers?
 
 ---
 
