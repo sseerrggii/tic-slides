@@ -12,7 +12,7 @@ Capitalisme digital, tecnocapitalisme, societat poslaboral, PostCapitalisme
 
 ---
 
-## Un capitalisme més
+## Un capitalisme més...
 
 - Neoliberal i governat pel mercat
 - Transnacional i globalitzat
@@ -25,6 +25,17 @@ Capitalisme digital, tecnocapitalisme, societat poslaboral, PostCapitalisme
 
 Note:
 Com el financer, com l'energètic, etc
+
+---
+
+## ... amb avantatges
+
+- Desregulat políticament
+- Desconegut políticament i judicial
+
+Note:
+Desregulat: 1. Fets consumats, 2. construït sobre capitalisme
+
 ---
 
 ## GAFAM contra els pagesos digitals
@@ -48,12 +59,13 @@ Distribuïdors són també GAFAM.
 - Bars, tertúlies -> Twitter
 - Hotels -> Airbnb
 - Taxis, lloguer de cotxes -> Uber
-- Hipermercats -> AliExpress
+- Hipermercats -> AliExpress, eBay
 - Cadenes de TV -> Netflix
 - Prestatgeries -> Dropbox
 - Assistents personals -> Amazon Alexa/Echo, Google Home
 
 Note:
+Troba manera d'extreure beneficis, inclus on no hi havia.
 Impacte directe en economia local.
 En comú, evasió d'impostos, model de caixa negra.
 Alguns també obren codi de manera interessada.
@@ -87,6 +99,7 @@ Obsolescència: Actualitzacions Android, requeriments hw
 - Priorització de continguts en base a algoritmes privatius
 - Venda de dades a tercers
 - Entrega de dades a Governs
+- Backdoors i exploits
 - Control centralitzat dels _stores_ i _marketplaces_
 
 Note:
@@ -99,20 +112,21 @@ Stores: retirada d'alternatives
 ## Alguns casos (1)
 
 - [Advertising en funció del perfil social](https://en.wikipedia.org/wiki/Social_network_advertising)
-- [360 graus del consum personal](https://www.geekwire.com/2018/check-no-checkout-amazon-go-automated-retail-store-will-finally-open-public-monday/)
-- [Laboratoris urbans](https://amp.theguardian.com/commentisfree/2017/oct/24/google-alphabet-sidewalk-labs-toronto)
+- [360 graus del consum personal (Amazon)](https://www.geekwire.com/2018/check-no-checkout-amazon-go-automated-retail-store-will-finally-open-public-monday/)
+- [Laboratoris urbans (Google)](https://amp.theguardian.com/commentisfree/2017/oct/24/google-alphabet-sidewalk-labs-toronto)
 - [IA per drones militars (Google)](https://static.theintercept.com/amp/google-is-quietly-providing-ai-technology-for-drone-strike-targeting-project.html)
-- [Recopilació d'ubicació en Android](https://static.theintercept.com/amp/google-is-quietly-providing-ai-technology-for-drone-strike-targeting-project.html)
+- [Recopilació d'ubicació en Android](https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/)
+- [Vulnerabilitat a atacs](https://es.wikipedia.org/wiki/Ataques_ransomware_WannaCry)
 
 ---
 
 ## Alguns casos (2)
 
-- [Tancament de perfils polítics](https://www.eldiario.es/sociedad/organizacion-feminista-Femen-denuncia-Facebook_0_146986033.html)
-- [Seguiment de càmera per pols en l'objectiu](https://gizmodo.com/facebook-knows-how-to-track-you-using-the-dust-on-your-1821030620)
+- [Tancament de perfils polítics (Facebook)](https://www.eldiario.es/sociedad/organizacion-feminista-Femen-denuncia-Facebook_0_146986033.html)
+- [Seguiment de càmera per pols en l'objectiu (Facebook)](https://gizmodo.com/facebook-knows-how-to-track-you-using-the-dust-on-your-1821030620)
 - [OSINT (Open Source Intelligence)](https://en.wikipedia.org/wiki/Open-source_intelligence)
-- [Filtració de dades personals: núm de telèfon](https://es.gizmodo.com/por-que-deberias-borrar-tu-numero-de-telefono-de-facebo-1820327397)
-- [Historial de trucades a la xarxa social](https://twitter.com/d3d0c3d/status/897110250758819848)
+- [Filtració de dades personals: núm de telèfon (Facebook)](https://es.gizmodo.com/por-que-deberias-borrar-tu-numero-de-telefono-de-facebo-1820327397)
+- [Historial de trucades a la xarxa social (Facebook)](https://twitter.com/d3d0c3d/status/897110250758819848)
 
 Note:
 Censura: un clàssic
