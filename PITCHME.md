@@ -215,6 +215,14 @@ i compartir-ho amb la comunitat.
 
 ---
 
+## Criteri 7
+
+Les llicències són una eina que emmiralla el compromís amb el Procomú!
+
+[Exemple: Reddit](https://www.reddit.com/r/changelog/comments/6xfyfg/an_update_on_the_state_of_the_redditreddit_and/)
+
+---
+
 ## Avaluació Criteri 7 (1)
 
 - Quin sistema operatiu tenen els ordinadors locals? Quines eines d'ofimàtica es fan servir?
@@ -233,10 +241,13 @@ i compartir-ho amb la comunitat.
 
 ---
 
-## Llicències lliures vs Llicències de codi obert
+## Llicències lliures i Llicències de codi obert
 
-- [La Catedral i el Bazar](https://www.digitalocean.com/community/tutorials/Free-vs-Open-Source-Software)
-- [Free Software Foundation License List](http://www.gnu.org/licenses/license-list.html) vs [Open Source Initiative’s Licenses & Standards](https://opensource.org/licenses)
+[La Catedral i el Bazar](https://www.digitalocean.com/community/tutorials/Free-vs-Open-Source-Software)
+
+- [Free Software Foundation License List](http://www.gnu.org/licenses/license-list.html)
+- [Open Source Initiative’s Licenses & Standards](https://opensource.org/licenses)
+- [Creative Commons](https://creativecommons.org/share-your-work/licensing-types-examples/)
 
 Note:
 FSF 80s, OSI darrers 90
