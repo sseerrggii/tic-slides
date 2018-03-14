@@ -233,6 +233,18 @@ i compartir-ho amb la comunitat.
 
 ---
 
+## Llicències lliures vs Llicències de codi obert
+
+- [La Catedral i el Bazar](https://www.digitalocean.com/community/tutorials/Free-vs-Open-Source-Software)
+- [Free Software Foundation License List](http://www.gnu.org/licenses/license-list.html) vs [Open Source Initiative’s Licenses & Standards](https://opensource.org/licenses)
+
+Note:
+FSF 80s, OSI darrers 90
+1997 Eric S. Raymond (un dels fundadors OSI)
+C: top-down, grup exclusiu. B: més efectiu a trobar i resoldre. Pràctic, descarregat políticament.
+
+---
+
 # Llicències Pamapam
 
 ### Comi TIC
