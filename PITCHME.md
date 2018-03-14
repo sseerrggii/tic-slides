@@ -12,7 +12,7 @@ Capitalisme digital, tecnocapitalisme, societat poslaboral, PostCapitalisme
 
 ---
 
-## Un capitalisme més...
+## Un capitalisme més
 
 - Neoliberal i governat pel mercat
 - Transnacional i globalitzat
@@ -28,7 +28,7 @@ Com el financer, com l'energètic, etc
 
 ---
 
-## ... amb avantatges
+## ... amb avantatges competitius
 
 - Desregulat legislativament
 - Desconegut políticament i judicial
@@ -38,7 +38,7 @@ Desregulat, dues vessants: 1. Fets consumats, 2. construït sobre capitalisme
 
 ---
 
-## ... amb avantatges
+## _Innovació_ i capitalisme
 
 _Gràcies a que posseeixen la tecnologia que dominarà la vida en el futur proper, també estan obtenint un enorme **poder polític i social**, més enllà fins i tot de la indústria tecnològica_
 
