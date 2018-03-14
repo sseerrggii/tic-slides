@@ -4,6 +4,11 @@
 
 ---
 
+> "Si les màquines produeixen tot el que necessitem, el resultat dependrà de com es distribueixen les coses. Tothom podrà gaudir d'una vida de luxe ociós si la riquesa produïda per les màquines és compartida, o la majoria de la gent pot acabar sent miserablement pobre si els propietaris de les màquines tenen èxit en la seva pressió política contra la redistribució de la riquesa. Fins ara, la tendència sembla ser cap a la segona opció, amb la tecnologia provocant cada vegada més gran desigualtat"
+
+[Stephen Hawking a Reddit, 2015](https://www.reddit.com/r/science/comments/3nyn5i/science_ama_series_stephen_hawking_ama_answers/cvsdmkv/)
+
+---
 ## Capitalisme digital
 
 Capitalisme digital, tecnocapitalisme, societat poslaboral, PostCapitalisme
