@@ -62,6 +62,7 @@ Distribuïdors són també GAFAM.
 - Hipermercats -> AliExpress, eBay
 - Cadenes de TV -> Netflix
 - Prestatgeries -> Dropbox
+- Hora del pati -> Snapchat
 - Assistents personals -> Amazon Alexa/Echo, Google Home
 
 Note:
