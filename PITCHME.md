@@ -30,11 +30,17 @@ Com el financer, com l'energètic, etc
 
 ## ... amb avantatges
 
-- Desregulat políticament
+- Desregulat legislativament
 - Desconegut políticament i judicial
 
 Note:
-Desregulat: 1. Fets consumats, 2. construït sobre capitalisme
+Desregulat, dues vessants: 1. Fets consumats, 2. construït sobre capitalisme
+
+---
+
+## ... amb avantatges
+
+_Gràcies a que posseeixen la tecnologia que dominarà la vida en el futur proper, també estan obtenint un enorme **poder polític i social**, més enllà fins i tot de la indústria tecnològica_
 
 ---
 
