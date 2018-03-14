@@ -4,7 +4,7 @@
 
 ---
 
-<em style="font-size: 20px">
+<em style="font-size: 30px">
 > "Si les màquines produeixen tot el que necessitem, el resultat dependrà de com es distribueixen les coses. Tothom podrà gaudir d'una vida de luxe ociós si la riquesa produïda per les màquines és compartida, o la majoria de la gent pot acabar sent miserablement pobre si els propietaris de les màquines tenen èxit en la seva pressió política contra la redistribució de la riquesa. Fins ara, la tendència sembla ser cap a la segona opció, amb la tecnologia provocant cada vegada més gran desigualtat"
 <em>
 
