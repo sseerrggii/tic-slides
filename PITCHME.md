@@ -174,6 +174,7 @@ Models
 Note:
 Transparència, democràcia, intercooperació
 Remeten a criteris de Pamapam
+
 ---
 
 ## Preguntes?
@@ -191,10 +192,9 @@ Llista: ```comissio_tic_pap@framalistes.org```
 Riot/Matrix: ```#comissio_tic_pap:matrix.org```
 ---
 
-# Llicències Pamapam
+# Llicències lliures i de codi obert
 
 ### Comi TIC
-
 
 ---
 
@@ -230,6 +230,12 @@ i compartir-ho amb la comunitat.
 - Quines altres eines es fan servir (disseny gràfic, comunicació, marketing)?
 - En desenvolupaments a mida, han alliberat codi/continguts o demanat al proveïdor que ho faci?
 - Linken el seu codi apropiadament, indiquen llicències i acrediten continguts/codi de tercers?
+
+---
+
+# Llicències Pamapam
+
+### Comi TIC
 
 ---
 
