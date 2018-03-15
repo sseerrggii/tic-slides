@@ -231,6 +231,10 @@ i compartir-ho amb la comunitat.
 
 ![Marta Guadalupe](assets/image/agroecology.jpg)
 
+<em style="font-size: 20px">
+Text: @CatAgroeco per @CCCBLab. Imatge [Harvest Time, de Robert French](http://catalogue.nli.ie/Record/vtls000044306/Holdings), domini públic.
+</em>
+
 Note:
 Harvest time. French, Robert, 1841-1917 photographer. Public Domain http://catalogue.nli.ie/Record/vtls000044306/Holdings
 
