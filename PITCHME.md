@@ -231,6 +231,9 @@ i compartir-ho amb la comunitat.
 
 ![Marta Guadalupe](assets/image/agroecology.jpg)
 
+Note:
+Harvest time. French, Robert, 1841-1917 photographer. Public Domain http://catalogue.nli.ie/Record/vtls000044306/Holdings
+
 ---
 
 ## Criteri 7
