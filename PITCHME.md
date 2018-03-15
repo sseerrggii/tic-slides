@@ -20,7 +20,7 @@ Capitalisme digital, tecnocapitalisme, societat poslaboral, PostCapitalisme
 Note:
 "Estem davant d'una disjuntiva clara: un model col·laboratiu o un futur distòpic, una mena de feudalisme tecnològic en què es multiplicaria la desigualtat"
 "Cal mirar al futur. I en aquest futur, les idees del socialisme utòpic són avui més possibles que mai gràcies a l'evolució tecnològica "
-"Els governs han de adonar-se que Uber no és bo, però que obre un camí que es pot transitar d'una altra manera. Per què no un Uber veritablement cooperatiu? "
+"Els governs han de adonar-se que Uber no és bo, però que obre un camí que es pot transitar d'una altra manera. Per què no un Uber veritablement cooperatiu?"
 
 ---
 
@@ -108,12 +108,6 @@ Assistents -> IoT privatiu
 
 ---
 
-## El forat digital
-
-![Internet Hole](assets/image/internet-hole.jpg)
-
----
-
 ## La tecnologia no és neutra
 
 - Submissió de la usuària |
@@ -175,6 +169,18 @@ Més enllà de vulneracions de drets en magatzems d'Amazon
 
 Note:
 Censura: un clàssic
+
+---
+
+## El forat digital
+
+![Internet Hole](assets/image/internet-hole.jpg)
+
+Note:
+Paul Mason de nou:
+"Estem davant d'una disjuntiva clara: un model col·laboratiu o un futur distòpic, una mena de feudalisme tecnològic en què es multiplicaria la desigualtat"
+"Cal mirar al futur. I en aquest futur, les idees del socialisme utòpic són avui més possibles que mai gràcies a l'evolució tecnològica "
+"Els governs han de adonar-se que Uber no és bo, però que obre un camí que es pot transitar d'una altra manera. Per què no un Uber veritablement cooperatiu?"
 
 ---
 
