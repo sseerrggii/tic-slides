@@ -6,9 +6,9 @@
 
 <em style="font-size: 30px">
 > Si les màquines produeixen tot el que necessitem, el resultat dependrà de com es distribueixen les coses. Tothom podrà gaudir d'una vida de luxe ociós si la riquesa produïda per les màquines és compartida, o la majoria de la gent pot acabar sent miserablement pobre si els propietaris de les màquines tenen èxit en la seva pressió política contra la redistribució de la riquesa. Fins ara, la tendència sembla ser cap a la segona opció, amb la tecnologia provocant cada vegada més gran desigualtat
-</em>
 
 [Stephen Hawking a Reddit, 2015](https://www.reddit.com/r/science/comments/3nyn5i/science_ama_series_stephen_hawking_ama_answers/cvsdmkv/)
+</em>
 
 ---
 ## Capitalisme digital
@@ -57,9 +57,9 @@ _Gràcies a que posseeixen la tecnologia que dominarà la vida en el futur prope
 
 <em style="font-size: 30px">
 > El que abans era una rica selecció de blogs i llocs web s'ha comprimit sota el pes poderós d'unes poques plataformes dominants. Aquesta concentració de poder crea un nou conjunt de guardians, permetent a un grapat de plataformes controlar quines idees i opinions es veuen i comparteixen.
-</em>
 
 [Tim Bernres-Lee, 29è aniversari de la WWW, març 2018](https://webfoundation.org/2018/03/web-birthday-29/)
+</em>
 
 Note:
 Barreres als competidors, falta de diversitat.
