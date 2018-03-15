@@ -116,7 +116,7 @@ Obsolescència: Actualitzacions Android, requeriments hw
 - Venda de dades a tercers |
 - Entrega de dades a Governs |
 - Backdoors i exploits |
-- Control centralitzat dels _stores_ i _marketplaces_ |
+- Control centralitzat dels stores i marketplaces |
 
 Note:
 Laboral: Deliveroo/Globo no té empleats, Airbnb no té hotels, Uber no té conductors -> Falsa economia col.laborativa
