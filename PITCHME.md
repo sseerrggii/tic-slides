@@ -227,8 +227,6 @@ i compartir-ho amb la comunitat.
 
 ---
 
-## Criteri 7
-
 ![Marta Guadalupe](assets/image/agroecology.jpg)
 
 <em style="font-size: 20px">
