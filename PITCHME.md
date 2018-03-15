@@ -225,6 +225,8 @@ i compartir-ho amb la comunitat.
 
 Les llicències són una eina que emmiralla el compromís amb el Procomú!
 
+![Marta Guadalupe](assets/image/agroecology.jpg)
+
 [Exemple: Reddit](https://www.reddit.com/r/changelog/comments/6xfyfg/an_update_on_the_state_of_the_redditreddit_and/)
 
 ---
