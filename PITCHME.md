@@ -157,7 +157,7 @@ Censura: un clàssic
 
 - Respectuosa amb el medi ambient |
 - Transparent en materials i procesos |
-- Local, _Km 0_ |
+- Local, Km 0 |
 - Sostenible |
 - Respectuosa amb la comunitat |
 
