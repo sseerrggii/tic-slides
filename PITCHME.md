@@ -89,6 +89,12 @@ Assistents -> IoT privatiu
 
 ---
 
+## El forat digital
+
+![Internet Hole](assets/image/internet-hole.jpg)
+
+---
+
 ## La tecnologia no és neutra
 
 - Submissió de la usuària |
