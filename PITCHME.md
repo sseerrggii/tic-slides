@@ -55,9 +55,13 @@ Desregulat, dues vessants: 1. Fets consumats, 2. construït sobre capitalisme
 ## Innovació i capitalisme
 
 Possessió de la tecnologia que dominarà la vida en el futur proper
+
 @fa[angle-down]
+
 **Poder polític i social**
+
 @fa[angle-down]
+
 ...més enllà fins i tot de la indústria tecnològica
 
 ---
