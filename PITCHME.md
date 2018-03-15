@@ -37,8 +37,10 @@ Com el financer, com l'energètic, etc
 
 ## ... amb avantatges competitius
 
-- Desregulat legislativament
-- Desconegut políticament i judicial
+- Desregulació legislativa
+  - Estratègies de fets consumats
+  - Principis de mercat, abans que drets fonamentals
+- Desconeixement polític i jurídic
 
 Note:
 Desregulat, dues vessants: 1. Fets consumats, 2. construït sobre capitalisme
@@ -53,11 +55,11 @@ _Gràcies a que posseeixen la tecnologia que dominarà la vida en el futur prope
 
 ## GAFAM contra els pagesos digitals
 
-- Alphabet (Google Search, Youtube, Maps, Android, Drive, Cloud)
-- Apple
-- Facebook (Whatsapp, Instagram)
-- Amazon (_retailer_, AWS)
-- Microsoft (Windows, Office, Azure, Skype)
+- Alphabet (Google Search, Youtube, Maps, Android, Drive, Cloud) |
+- Apple |
+- Facebook (Whatsapp, Instagram) |
+- Amazon (_retailer_, AWS) |
+- Microsoft (Windows, Office, Azure, Skype) |
 
 Note:
 Els Montsanto i Nestlé del món digital.
@@ -69,14 +71,14 @@ Distribuïdors són també GAFAM.
 
 ## El capitalisme es reinventa
 
-- Bars, tertúlies -> Twitter
-- Hotels -> Airbnb
-- Taxis, lloguer de cotxes -> Uber
-- Hipermercats -> AliExpress, eBay
-- Cadenes de TV -> Netflix
-- Prestatgeries -> Dropbox
-- Hora del pati -> Snapchat
-- Assistents personals -> Amazon Alexa/Echo, Google Home
+- Bars, tertúlies -> Twitter |
+- Hotels -> Airbnb |
+- Taxis, lloguer de cotxes -> Uber |
+- Hipermercats -> AliExpress, eBay |
+- Cadenes de TV -> Netflix |
+- Prestatgeries -> Dropbox |
+- Hora del pati -> Snapchat |
+- Assistents personals -> Amazon Alexa/Echo, Google Home |
 
 Note:
 Troba manera d'extreure beneficis, inclus on no hi havia.
@@ -89,13 +91,13 @@ Assistents -> IoT privatiu
 
 ## La tecnologia no és neutra
 
-- Submissió de la usuària
-- Model de caixa negra (privatiu)
-- Despossessió del producte/servei
-- Obsolescència programada
+- Submissió de la usuària |
+- Model de caixa negra (privatiu) |
+- Despossessió del producte/servei |
+- Obsolescència programada |
 
 Note:
-Despossessió: DRM continguts digitals, clouds.
+Despossessió: DRM continguts digitals, llicències MS, clouds.
 Obsolescència: Actualitzacions Android, requeriments hw
 
 ---
@@ -109,12 +111,12 @@ Obsolescència: Actualitzacions Android, requeriments hw
 
 ## Praxis
 
-- Enginyeria fiscal/laboral
-- Priorització de continguts en base a algoritmes privatius
-- Venda de dades a tercers
-- Entrega de dades a Governs
-- Backdoors i exploits
-- Control centralitzat dels _stores_ i _marketplaces_
+- Enginyeria fiscal/laboral |
+- Priorització de continguts en base a algoritmes privatius |
+- Venda de dades a tercers |
+- Entrega de dades a Governs |
+- Backdoors i exploits |
+- Control centralitzat dels _stores_ i _marketplaces_ |
 
 Note:
 Laboral: Deliveroo/Globo no té empleats, Airbnb no té hotels, Uber no té conductors -> Falsa economia col.laborativa
@@ -132,10 +134,14 @@ Stores: retirada d'alternatives
 - [Recopilació d'ubicació en Android](https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/)
 - [Vulnerabilitat a atacs](https://es.wikipedia.org/wiki/Ataques_ransomware_WannaCry)
 
+Note:
+Més enllà de vulneracions de drets en magatzems d'Amazon
+
 ---
 
 ## Alguns casos (2)
 
+- [Monetització de les classes desposseïdes](https://medium.com/@Michael_Spencer/americas-future-underclass-are-being-monetized-by-walmart-and-amazon-b24c4b404079)
 - [Tancament de perfils polítics (Facebook)](https://www.eldiario.es/sociedad/organizacion-feminista-Femen-denuncia-Facebook_0_146986033.html)
 - [Seguiment de càmera per pols en l'objectiu (Facebook)](https://gizmodo.com/facebook-knows-how-to-track-you-using-the-dust-on-your-1821030620)
 - [OSINT (Open Source Intelligence)](https://en.wikipedia.org/wiki/Open-source_intelligence)
@@ -149,11 +155,11 @@ Censura: un clàssic
 
 ## L'economia dels pagesos digitals
 
-- Respectuosa amb el medi ambient
-- Transparent en materials i procesos
-- Local, _Km 0_
-- Sostenible
-- Respectuosa amb la comunitat
+- Respectuosa amb el medi ambient |
+- Transparent en materials i procesos |
+- Local, _Km 0_ |
+- Sostenible |
+- Respectuosa amb la comunitat |
 
 Note:
 Lliure de pesticides
@@ -164,7 +170,7 @@ Respectuosa amb la privacitat de la xarxa de contactes
 
 ## Els Procomuns
 
-Models
+Models 
 - Econòmics
 - De governança
 - Tecnològics
@@ -226,7 +232,7 @@ Les llicències són una eina que emmiralla el compromís amb el Procomú!
 ## Avaluació Criteri 7 (1)
 
 - Quin sistema operatiu tenen els ordinadors locals? Quines eines d'ofimàtica es fan servir?
-- On està desplegada la web i amb quin servidor està constuïda? Quina base de dades?
+- On està desplegada la web i amb quin programari està construïda? Quina base de dades?
 - Amb quines eines gestionen les seves finances?
 - On es guarden els documents digitals de la iniciativa?
 
