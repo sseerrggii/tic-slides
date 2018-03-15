@@ -47,9 +47,13 @@ Desregulat, dues vessants: 1. Fets consumats, 2. construït sobre capitalisme
 
 ---
 
-## _Innovació_ i capitalisme
+## Innovació i capitalisme
 
 _Gràcies a que posseeixen la tecnologia que dominarà la vida en el futur proper, també estan obtenint un enorme **poder polític i social**, més enllà fins i tot de la indústria tecnològica_
+
+---
+
+## Innovació i capitalisme
 
 > El que abans era una rica selecció de blogs i llocs web s'ha comprimit sota el pes poderós d'unes poques plataformes dominants. Aquesta concentració de poder crea un nou conjunt de guardians, permetent a un grapat de plataformes controlar quines idees i opinions es veuen i comparteixen.
 
