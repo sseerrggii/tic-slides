@@ -17,6 +17,11 @@ Capitalisme digital, tecnocapitalisme, societat poslaboral, PostCapitalisme
 
 [Paul Mason - PostCapitalism: A Guide to our Future @fa[external-link gp-download]](https://en.wikipedia.org/wiki/PostCapitalism:_A_Guide_to_our_Future)
 
+Note:
+"Estem davant d'una disjuntiva clara: un model col·laboratiu o un futur distòpic, una mena de feudalisme tecnològic en què es multiplicaria la desigualtat"
+"Cal mirar al futur. I en aquest futur, les idees del socialisme utòpic són avui més possibles que mai gràcies a l'evolució tecnològica "
+"Els governs han de adonar-se que Uber no és bo, però que obre un camí que es pot transitar d'una altra manera. Per què no un Uber veritablement cooperatiu? "
+
 ---
 
 ## Un capitalisme més
