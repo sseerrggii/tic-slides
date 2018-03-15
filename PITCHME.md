@@ -58,7 +58,7 @@ _Gràcies a que posseeixen la tecnologia que dominarà la vida en el futur prope
 - Alphabet (Google Search, Youtube, Maps, Android, Drive, Cloud) |
 - Apple |
 - Facebook (Whatsapp, Instagram) |
-- Amazon (_retailer_, AWS) |
+- Amazon (retailer, AWS) |
 - Microsoft (Windows, Office, Azure, Skype) |
 
 Note:
