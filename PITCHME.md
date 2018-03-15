@@ -238,9 +238,24 @@ Harvest time. French, Robert, 1841-1917 photographer. Public Domain http://catal
 
 ---
 
-## Criteri 7
+## Llicències lliures i Llicències de codi obert
 
-Les llicències són una eina que emmiralla el compromís amb el Procomú!
+[La Catedral i el Bazar](https://www.digitalocean.com/community/tutorials/Free-vs-Open-Source-Software)
+
+- [Free Software Foundation License List](http://www.gnu.org/licenses/license-list.html)
+- [Open Source Initiative’s Licenses & Standards](https://opensource.org/licenses)
+- [Creative Commons](https://creativecommons.org/share-your-work/licensing-types-examples/)
+
+Note:
+FSF 80s, OSI darrers 90
+1997 Eric S. Raymond (un dels fundadors OSI)
+C: top-down, grup exclusiu, més polític. B: més efectiu a trobar i resoldre. Pràctic, descarregat políticament.
+
+---
+
+## El valor de les llicències lliures i obertes
+
+Les llicències són una eina que emmiralla el compromís amb el Procomú i el respecte per les dades gestionades
 
 [Exemple: Reddit](https://www.reddit.com/r/changelog/comments/6xfyfg/an_update_on_the_state_of_the_redditreddit_and/)
 
@@ -264,18 +279,9 @@ Les llicències són una eina que emmiralla el compromís amb el Procomú!
 
 ---
 
-## Llicències lliures i Llicències de codi obert
+## Criteri 7
 
-[La Catedral i el Bazar](https://www.digitalocean.com/community/tutorials/Free-vs-Open-Source-Software)
-
-- [Free Software Foundation License List](http://www.gnu.org/licenses/license-list.html)
-- [Open Source Initiative’s Licenses & Standards](https://opensource.org/licenses)
-- [Creative Commons](https://creativecommons.org/share-your-work/licensing-types-examples/)
-
-Note:
-FSF 80s, OSI darrers 90
-1997 Eric S. Raymond (un dels fundadors OSI)
-C: top-down, grup exclusiu. B: més efectiu a trobar i resoldre. Pràctic, descarregat políticament.
+[Algunes respostes](https://tec.lleialtat.cat/formacio/eines-lliures-per-la-privacitat-i-la-llibertat)
 
 ---
 
