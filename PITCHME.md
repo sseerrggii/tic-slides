@@ -290,11 +290,7 @@ C: top-down, grup exclusiu, més polític. B: més efectiu a trobar i resoldre. 
 
 Les llicències són una eina que emmiralla el compromís amb el Procomú i el respecte per les dades gestionades
 
-Exemples:
-
-[Nodejs](https://github.com/nodejs/node/blob/master/LICENSE)
-
-[Reddit](https://www.reddit.com/r/changelog/comments/6xfyfg/an_update_on_the_state_of_the_redditreddit_and/)
+Exemples: [Nodejs](https://github.com/nodejs/node/blob/master/LICENSE), [Reddit](https://www.reddit.com/r/changelog/comments/6xfyfg/an_update_on_the_state_of_the_redditreddit_and/)
 
 Bonus: [Codi de conducta](https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md), [guia de col·laboració](https://github.com/nodejs/node/blob/master/COLLABORATOR_GUIDE.md)
 
