@@ -253,14 +253,11 @@ Les usuàries d'Internet no tenim pràcticament cap control sobre les plataforme
 
 ---
 
-## La Plataforma ideal
+## Plataformes ideals
+Combinem l'eficiència i els menors costos de transacció de les plataformes digitals juntament amb la propietat horitzontal i el control democràtic que caracteritzen les cooperatives.
 
-1. Utilitzen continguts amb llicències lliures.
-2. És política interna de la iniciativa prioritzar l’ús de continguts amb llicències lliures en el desenvolupament de l’activitat.
-3. Publiquen algun contingut sota llicència lliure.
-4. És política interna de la iniciativa publicar la major part del contingut que es produeix sota llicències lliures
-i compartir-ho amb la comunitat.
-5. Fan tasques de sensibilització i difusió sobre l’ús i creació de continguts sota llicències lliures.
+* Valors de l'ESS
+* Valors del Procomú digital
 
 ---
 
