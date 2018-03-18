@@ -275,8 +275,8 @@ Riot/Matrix: ```#comissio_tic_pap:matrix.org```
 ## Per què codi obert
 
 * Replicabilitat
-* Compartim les despeses de millora i manteniment
-* Seguretat
+* Compartim les despeses de millora
+* Seguretat, auditable
 * Comunitat
 
 ---
