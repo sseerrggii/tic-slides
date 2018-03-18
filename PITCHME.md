@@ -243,17 +243,17 @@ Riot/Matrix: ```#comissio_tic_pap:matrix.org```
 
 ---
 
-<em style="font-size: 20px">
+<em style="font-size: 24px">
 >Internet ha transformat els nostres llocs de treball, les nostres relacions i les nostres societats.
 
 </em>
 
-<em style="font-size: 20px">
->Empreses com Uber, Amazon, Google o Facebook s'estan apoderant de sectors fonamentals de l'economia com el del transport, i de fenòmens com les cerques o les xarxes socials.
+<em style="font-size: 24px">
+>Empreses com Uber, Amazon, Google o Facebook s'estan apoderant de sectors fonamentals de l'economia, com ara el transport o fenòmens com les cerques o les xarxes socials.
 
 </em>
 
-<em style="font-size: 20px">
+<em style="font-size: 24px">
 >Les usuàries d'Internet no tenim pràcticament cap control sobre les plataformes amb les quals interactuem diàriament.
 
 [https://platform.coop/](https://platform.coop/about)
@@ -289,7 +289,7 @@ Riot/Matrix: ```#comissio_tic_pap:matrix.org```
 * Experiència de l’usuària
 * Escala
 * Procomú digital
-* Finançament
+* Finançament i sostenibilitat
 
 ---
 
