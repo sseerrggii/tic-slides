@@ -254,7 +254,7 @@ Riot/Matrix: ```#comissio_tic_pap:matrix.org```
 </em>
 
 <em style="font-size: 20px">
-Les usuàries d'Internet no tenim pràcticament cap control sobre les plataformes amb les quals interactuem diàriament.
+>Les usuàries d'Internet no tenim pràcticament cap control sobre les plataformes amb les quals interactuem diàriament.
 
 [https://platform.coop/](https://platform.coop/about)
 
