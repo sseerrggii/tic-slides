@@ -244,12 +244,12 @@ Riot/Matrix: ```#comissio_tic_pap:matrix.org```
 ---
 
 <em style="font-size: 20px">
->Estem perdent el control d'Internet. Internet ha transformat els nostres llocs de treball, les nostres relacions i les nostres societats.
+>Internet ha transformat els nostres llocs de treball, les nostres relacions i les nostres societats.
 
 </em>
 
 <em style="font-size: 20px">
->Empreses com Uber, Amazon, i Facebook s'estan apoderant de sectors fonamentals de l'economia com el del transport, i de fenòmens com les cerques i les xarxes socials.
+>Empreses com Uber, Amazon, Google o Facebook s'estan apoderant de sectors fonamentals de l'economia com el del transport, i de fenòmens com les cerques o les xarxes socials.
 
 </em>
 
