@@ -237,7 +237,7 @@ Llista: ```comissio_tic_pap@framalistes.org```
 Riot/Matrix: ```#comissio_tic_pap:matrix.org```
 ---
 
-# Cooperativisme de Plataforma
+## Cooperativisme de Plataforma
 
 ### Comi TIC
 
