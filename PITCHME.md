@@ -253,11 +253,32 @@ Les usuàries d'Internet no tenim pràcticament cap control sobre les plataforme
 
 ---
 
-## Plataformes ideals
+## Les Plataformes ideals
 Combinem l'eficiència i els menors costos de transacció de les plataformes digitals juntament amb la propietat horitzontal i el control democràtic que caracteritzen les cooperatives.
 
 * Valors de l'ESS
-* Valors del Procomú digital
+* Procomú digital
+* Comunitats que es mouen per principis i no sols per interès
+
+---
+
+---
+
+## Per què códi obert
+
+* Sumem esforços
+* Seguretat
+* Comunitat
+
+---
+
+## Reptes del Cooperativisme de Plataforma
+
+* Aprendre de la ESS
+* Experiència de l’usària
+* Escala
+* Procomú digital
+* Finançament
 
 ---
 
