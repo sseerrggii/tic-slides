@@ -237,6 +237,74 @@ Llista: ```comissio_tic_pap@framalistes.org```
 Riot/Matrix: ```#comissio_tic_pap:matrix.org```
 ---
 
+## Cooperativisme de Plataforma
+
+### Comi TIC
+
+---
+
+<em style="font-size: 24px">
+>Internet ha transformat els nostres llocs de treball, les nostres relacions i les nostres societats.
+
+</em>
+
+<em style="font-size: 24px">
+>Empreses com Uber, Amazon, Google o Facebook s'estan apoderant de sectors fonamentals de l'economia, com ara el transport o fenòmens com les cerques o les xarxes socials.
+
+</em>
+
+<em style="font-size: 24px">
+>Les usuàries d'Internet no tenim pràcticament cap control sobre les plataformes amb les quals interactuem diàriament.
+
+[https://platform.coop/](https://platform.coop/about)
+
+</em>
+
+---
+
+## Plataformes ideals
+<p style="text-align: left">Combinem l'eficiència i els menors costos de transacció de les plataformes digitals juntament amb la propietat horitzontal i el control democràtic que caracteritzen les cooperatives.</p>
+
+* Valors de l'ESS
+* Procomú digital
+* Comunitats que es mouen per principis i no sols per interès
+
+
+---
+
+## Per què codi obert
+
+* Replicabilitat
+* Compartim les despeses de millora
+* Seguretat, auditable
+* Comunitat
+
+---
+
+## Reptes
+
+<p style="text-align: left">Trobar la recepta ideal adaptada a cada cas.</p>
+
+* Aprendre de la ESS
+* Experiència de l’usuària
+* Escala
+* Procomú digital
+* Finançament i sostenibilitat
+
+---
+
+## Gràcies!
+<br>
+
+
+<br>
+
+Llista: ```comissio_tic_pap@framalistes.org```
+<br>
+Riot/Matrix: ```#comissio_tic_pap:matrix.org```
+
+---
+
 # Llicències lliures i de codi obert
 
 ### Comi TIC
