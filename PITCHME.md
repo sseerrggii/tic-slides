@@ -243,6 +243,25 @@ Riot/Matrix: ```#comissio_tic_pap:matrix.org```
 
 ---
 
+<em style="font-size: 30px">
+>L'usuari comú està perdent el control d'Internet. Les tecnologies d'Internet estan transformant els nostres llocs de treball, les nostres relacions i les nostres societats. Empreses com ara Uber, Amazon, i Facebook s'estan apoderant de sectors fonamentals de l'economia com el del transport, i de fenòmens com les recerques i les xarxes socials. Els usuaris d'Internet no tenim pràcticament cap control sobre les plataformes que ens afecten i ens informen diàriament.
+
+[https://platform.coop/](https://platform.coop/about)
+</em>
+
+---
+
+## La Plataforma ideal
+
+1. Utilitzen continguts amb llicències lliures.
+2. És política interna de la iniciativa prioritzar l’ús de continguts amb llicències lliures en el desenvolupament de l’activitat.
+3. Publiquen algun contingut sota llicència lliure.
+4. És política interna de la iniciativa publicar la major part del contingut que es produeix sota llicències lliures
+i compartir-ho amb la comunitat.
+5. Fan tasques de sensibilització i difusió sobre l’ús i creació de continguts sota llicències lliures.
+
+---
+
 
 # Llicències lliures i de codi obert
 
