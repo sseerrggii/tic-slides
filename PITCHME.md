@@ -271,7 +271,9 @@ Les usuàries d'Internet no tenim pràcticament cap control sobre les plataforme
 
 ---
 
-## Reptes del Cooperativisme de Plataforma
+## Reptes
+
+<p style="text-align: left">Trobar la recepta ideal adaptada a cada cas.</p>
 
 * Aprendre de la ESS
 * Experiència de l’usària
